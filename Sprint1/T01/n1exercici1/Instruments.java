@@ -27,7 +27,7 @@ public abstract class Instruments {
     }
 
     static {
-        System.out.println("La clase Corda s'ha carregat de forma estática");
+        System.out.println("La clase instruments s'ha carregat de forma estática");
     }
 
     public abstract void tocar();
