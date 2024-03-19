@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class Directorio {
     public static void main(String[] args) {
-        String directorioPath = "C:\\Users\\Yaslok\\Desktop\\Yaslok\\S01T05";
+        String directorioPath = "src/main/java/";
         String outputFile = "directorio.ser";
 
         mostrarDirectorio(directorioPath, outputFile);

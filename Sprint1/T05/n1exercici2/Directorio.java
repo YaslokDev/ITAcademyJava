@@ -8,7 +8,7 @@ import java.util.Date;
 public class Directorio {
     public static void main(String[] args) {
 
-        mostrarDirectorio("C:\\Users\\Yaslok\\Desktop\\Yaslok\\S01T05");
+        mostrarDirectorio("src/main/java/");
     }
 
     public static void mostrarDirectorio(String path) {

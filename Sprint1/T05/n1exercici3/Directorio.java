@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 public class Directorio {
     public static void main(String[] args) {
-        mostrarDirectorio("C:\\Users\\Yaslok\\Desktop\\Yaslok\\S01T05", "salida.txt");
+        mostrarDirectorio("src/main/java/", "salida.txt");
     }
 
     public static void mostrarDirectorio(String path, String outputFile) {
